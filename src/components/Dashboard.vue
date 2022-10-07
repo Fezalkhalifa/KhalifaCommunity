@@ -162,14 +162,6 @@
                   md:w-1/4
                   mx-2
                 ">
-                <div class="p-4 flex flex-col">
-                  <a href="#" class="no-underline text-white text-2xl">
-                    244
-                  </a>
-                  <a href="#" class="no-underline text-white text-lg">
-                    Total members
-                  </a>
-                </div>
               </div>
 
               <div class="
